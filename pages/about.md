@@ -3,7 +3,7 @@ layout: misc
 title: About
 ---
 
-👋 I'm Jes
+Hi there, I'm Jes! 👋 
 
 I'm currently a student in the Masters of Data Science Degree at UBC.
 
